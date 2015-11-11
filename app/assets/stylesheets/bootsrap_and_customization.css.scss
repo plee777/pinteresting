@@ -7,6 +7,10 @@ $jumbotron-bg:	white;
 
 @import 'bootstrap';
 
+.checkbox input[type="checkbox"] {
+	margin-left: 0;
+}
+
 .center {
 	text-align: center;
 }
